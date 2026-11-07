@@ -1,0 +1,22 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {},
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0986_13_00_cutout_mesh_clear": "133315196762680",
+    "pm0986_13_00_main_mesh": "106650644879915"
+  }
+}
