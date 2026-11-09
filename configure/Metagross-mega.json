@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Metagrossmega_mesh": "95046414861627"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Metagrossmega_mesh": "107726251539949"
+    "Metagrossmega_mesh": "95405494561037"
   }
 }

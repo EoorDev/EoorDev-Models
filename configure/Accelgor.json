@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Accelgor_mesh": "137061698172156"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Accelgor_mesh": "107576403903976"
+    "Accelgor_mesh": "99334559396488"
   }
 }

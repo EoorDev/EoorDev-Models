@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Venipede_mesh": "76689224476427"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Venipede_mesh": "116039118812099"
+    "Venipede_mesh": "75321846383850"
   }
 }

@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Sawk_mesh": "129322650609061"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Sawk_mesh": "115240564751358"
+    "Sawk_mesh": "137198477289287"
   }
 }

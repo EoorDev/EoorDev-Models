@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Elgyem_mesh": "136456002561033"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Elgyem_mesh": "120721069832460"
+    "Elgyem_mesh": "107998403837571"
   }
 }

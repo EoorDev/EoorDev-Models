@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Pumpkaboo_mesh": "93303932938180"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Pumpkaboo_mesh": "72211105242835"
+    "Pumpkaboo_mesh": "119116492642847"
   }
 }

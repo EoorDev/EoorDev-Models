@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Femalesteelix_mesh": "130023552578967"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Femalesteelix_mesh": "94600089819639"
+    "Femalesteelix_mesh": "116079214977600"
   }
 }

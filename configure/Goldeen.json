@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Goldeen_mesh": "112107272779592"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Goldeen_mesh": "107871996567846"
+    "Goldeen_mesh": "106747982788741"
   }
 }

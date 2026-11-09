@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Cascoon_mesh": "78066790955280"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Cascoon_mesh": "103954636878247"
+    "Cascoon_mesh": "89958032917275"
   }
 }

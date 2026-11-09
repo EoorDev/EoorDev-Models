@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Femaleratatta_mesh": "79365120833379"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Femaleratatta_mesh": "98946854172155"
+    "Femaleratatta_mesh": "135303564717994"
   }
 }

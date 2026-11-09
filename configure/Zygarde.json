@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Zygarde_mesh": "86397731801547"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Zygarde_mesh": "134943915957583"
+    "Zygarde_mesh": "93922643722100"
   }
 }

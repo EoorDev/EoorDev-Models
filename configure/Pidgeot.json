@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Pidgeot_mesh": "99907849391518"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Pidgeot_mesh": "81490442515920"
+    "Pidgeot_mesh": "137555922654694"
   }
 }

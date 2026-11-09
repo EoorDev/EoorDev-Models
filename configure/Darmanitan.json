@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Darmanitan_mesh": "76463060304585"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Darmanitan_mesh": "108515975689763"
+    "Darmanitan_mesh": "137136999394006"
   }
 }

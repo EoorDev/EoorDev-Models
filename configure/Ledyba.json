@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Ledyba_mesh": "122571747163915"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Ledyba_mesh": "84452781982525"
+    "Ledyba_mesh": "87909761264153"
   }
 }

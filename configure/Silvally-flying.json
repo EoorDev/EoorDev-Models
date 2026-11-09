@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Silvallyflying_mesh": "128076712837274"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Silvallyflying_mesh": "131361943423335"
+    "Silvallyflying_mesh": "91190771629626"
   }
 }

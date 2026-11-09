@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Genesectdouse_mesh": "128395370088299"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Genesectdouse_mesh": "93876295899923"
+    "Genesectdouse_mesh": "118315151685266"
   }
 }

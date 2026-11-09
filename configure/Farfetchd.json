@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Farfetchd_mesh": "130245080264132"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Farfetchd_mesh": "114135674028205"
+    "Farfetchd_mesh": "119353281381717"
   }
 }

@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Shelmet_mesh": "139195775039041"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Shelmet_mesh": "122017464798822"
+    "Shelmet_mesh": "115760546024318"
   }
 }

@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Silvallyrock_mesh": "126404952903602"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Silvallyrock_mesh": "94547644365562"
+    "Silvallyrock_mesh": "115240924512960"
   }
 }

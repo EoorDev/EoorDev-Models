@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Sigilyph_mesh": "122455384158310"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Sigilyph_mesh": "91978755203474"
+    "Sigilyph_mesh": "94477278983051"
   }
 }

@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Castformsunny_mesh": "132929115491140"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Castformsunny_mesh": "115867143438499"
+    "Castformsunny_mesh": "106641802007538"
   }
 }

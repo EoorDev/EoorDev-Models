@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Guzzlord_mesh": "100460679382584"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Guzzlord_mesh": "133988903332288"
+    "Guzzlord_mesh": "118525065989339"
   }
 }

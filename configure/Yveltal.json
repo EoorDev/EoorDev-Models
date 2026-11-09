@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Yveltal_mesh": "85460997716163"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Yveltal_mesh": "86835351775403"
+    "Yveltal_mesh": "108016799969771"
   }
 }

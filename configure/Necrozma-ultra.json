@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Necrozmaultra_mesh": "71492789032472"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Necrozmaultra_mesh": "76276690028368"
+    "Necrozmaultra_mesh": "136199746853336"
   }
 }

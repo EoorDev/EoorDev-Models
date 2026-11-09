@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Marowakalola_mesh": "70788648426210"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Marowakalola_mesh": "102973657632477"
+    "Marowakalola_mesh": "110244606353449"
   }
 }

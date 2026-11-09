@@ -1,6 +1,8 @@
 {
   "AnimSpeed": 0.01,
-  "Normal": {},
+  "Normal": {
+    "Nihilego_mesh": "97915354656907"
+  },
   "Offset": {
     "ReleaseDown": {
       "$type": "Vector3",
@@ -16,6 +18,6 @@
     }
   },
   "Shiny": {
-    "Nihilego_mesh": "107519946831053"
+    "Nihilego_mesh": "92962723350236"
   }
 }
